@@ -1,0 +1,3 @@
+Creating relational database using Python that connects to PostgreSQL using psyprog library
+and creates all of the tables and relationships.
+After that using special scripts we can export data from database to .csv and .json files
